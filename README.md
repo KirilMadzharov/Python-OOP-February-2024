@@ -4,17 +4,17 @@ Throughout this course, I developed expertise in the principles of object-orient
 
 In the repository "Python-OOP-February-2024," you will find the following folders and information:
 
-Classes and Objects
-
-Inheritance and Polymorphism
-
-Design Patterns
-
-SOLID Principles
-
-Iterators and Generators
-
-Decorators and Unit Testing
+  Classes and Objects
+  
+  Inheritance and Polymorphism
+  
+  Design Patterns
+  
+  SOLID Principles
+  
+  Iterators and Generators
+  
+  Decorators and Unit Testing
 
 
 
