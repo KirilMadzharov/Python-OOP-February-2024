@@ -5,13 +5,21 @@ Throughout this course, I developed expertise in the principles of object-orient
 In the repository "Python-OOP-February-2024," you will find the following folders and information:
 
 Classes and Objects
+
 Inheritance and Polymorphism
+
 Design Patterns
+
 SOLID Principles
+
 Iterators and Generators
+
 Decorators and Unit Testing
 
+
+
 **Please refer to the "Python OOP - February 2024 - Certificate" file located at the bottom of this repository.** Software University has issued this official certification, and its legitimacy can be verified by scanning the QR code present at the certificate's lower left section.
+
 
 **Overview of the topics covered in the course:**
 
