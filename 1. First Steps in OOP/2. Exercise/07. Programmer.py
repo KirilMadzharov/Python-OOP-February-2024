@@ -1,4 +1,3 @@
-# Based on the problem statement in the image, I'll create the Programmer class in Python.
 class Programmer:
     def __init__(self, name, language, skills):
         self.name = name
